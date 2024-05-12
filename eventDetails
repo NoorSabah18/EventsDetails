@@ -1,0 +1,32 @@
+const eventDetails = {
+    "Yoga Classes": {
+        location: "Yoga Studio",
+        description: "Join our yoga classes to improve your flexibility and reduce stress.",
+        duration: "1 hour"
+    },
+    "Cooking Classes": {
+        location: "LRV building",
+        description: "This is a hands-on cooking class where you can learn new recipes and techniques.",
+        duration: "2 hours"
+    },
+    "Pillow Fight Day": {
+        location: "Student Union",
+        description: "Participate in the annual pillow fight day and have some fun!",
+        duration: "3 hours"
+    },
+    "open day": {
+        location: "Campus",
+        description: "Attend the open day to explore the university and its facilities.",
+        duration: "6 hours"
+    },
+    "food festival": {
+        location: "Main Quad",
+        description: "Enjoy a variety of delicious food from different cultures at the food festival.",
+        duration: "4 hours"
+    },
+    "Cybersecurity": {
+        location: "Computer Science Building",
+        description: "Learn about the latest trends and techniques in cybersecurity.",
+        duration: "2 hours"
+    }
+};
