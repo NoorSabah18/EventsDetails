@@ -1,15 +1,15 @@
 {
-    "Yoga Classes": {
+    "yoga classes": {
         "location": "Yoga Studio",
         "description": "Join our yoga classes to improve your flexibility and reduce stress.",
         "duration": "1 hour"
     },
-    "Cooking Classes": {
+    "cooking classes": {
         "location": "LRV building",
         "description": "This is a hands-on cooking class where you can learn new recipes and techniques.",
         "duration": "2 hours"
     },
-    "Pillow Fight Day": {
+    "pillow fight day": {
         "location": "Student Union",
         "description": "Participate in the annual pillow fight day and have some fun!",
         "duration": "3 hours"
@@ -24,8 +24,8 @@
         "description": "Enjoy a variety of delicious food from different cultures at the food festival.",
         "duration": "4 hours"
     },
-    "Cybersecurity": {
-        "location": "Computer Science Building",
+    "cybersecurity": {
+        "location": "Catalyst Building",
         "description": "Learn about the latest trends and techniques in cybersecurity.",
         "duration": "2 hours"
     }
