@@ -1,4 +1,4 @@
-const eventDetails = {
+eventDetails = {
     "Yoga Classes": {
         location: "Yoga Studio",
         description: "Join our yoga classes to improve your flexibility and reduce stress.",
